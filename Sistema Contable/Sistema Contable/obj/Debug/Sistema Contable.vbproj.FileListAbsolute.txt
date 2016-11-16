@@ -1,0 +1,14 @@
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\bin\Debug\Sistema Contable.exe.config
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\bin\Debug\Sistema Contable.exe
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\bin\Debug\Sistema Contable.pdb
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\bin\Debug\Sistema Contable.xml
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\obj\Debug\Sistema_Contable.Form1.resources
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\obj\Debug\Sistema_Contable.Resources.resources
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\obj\Debug\Sistema Contable.vbproj.GenerateResource.Cache
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\obj\Debug\Sistema Contable.exe
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\obj\Debug\Sistema Contable.xml
+C:\Users\Lizbeth\Desktop\evolucion de sw\Sistema Contable\Sistema Contable\obj\Debug\Sistema Contable.pdb
+C:\Users\Lizbeth\Desktop\Tarea Academica Nº 01\Sistema Contable\Sistema Contable\bin\Debug\Sistema Contable.exe.config
+C:\Users\Lizbeth\Desktop\Tarea Academica Nº 01\Sistema Contable\Sistema Contable\obj\Debug\Sistema Contable.exe
+C:\Users\Lizbeth\Desktop\Tarea Academica Nº 01\Sistema Contable\Sistema Contable\obj\Debug\Sistema Contable.xml
+C:\Users\Lizbeth\Desktop\Tarea Academica Nº 01\Sistema Contable\Sistema Contable\obj\Debug\Sistema Contable.pdb
